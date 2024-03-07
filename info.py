@@ -17,7 +17,7 @@ BOT_TOKEN = environ['BOT_TOKEN']
 
 # Bot settings
 WEBHOOK = bool(environ.get("WEBHOOK", True)) # for web support on/off
-PICS = (environ.get('PICS' ,'https://graph.org/file/01ddfcb1e8203879a63d7.jpg https://graph.org/file/a125497b6b85a1d774394.jpg https://graph.org/file/43d26c54d37f4afb830f7.jpg https://graph.org/file/60c1adffc7cc2015f771c.jpg https://graph.org/file/0f336b0402db3f2a20037.jpg https://graph.org/file/39cc4e15cad4519d8e932.jpg')).split()
+PICS = (environ.get('PICS' ,'https://telegra.ph/file/fe3b2be0f9e722a506008.jpg https://telegra.ph/file/94e734920cdcd04b2bf68.jpg https://telegra.ph/file/bf557d521c45a783e6203.jpg https://telegra.ph/file/e3be4f3dd6a931751c437.jpg https://telegra.ph/file/ad8f99fdcd4fa26a7751d.jpg')).split()
 UPTIME = time.time()
 
 # Admins, Channels & Users
