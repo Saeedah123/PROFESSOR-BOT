@@ -15,9 +15,9 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 ✯ Mʏ Vᴇʀꜱɪᴏɴ: ᴠ4.5.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ᴡᴀɴᴛ ᴛᴏ ᴍᴀᴋᴇ ʏᴏᴜʀ ʙᴏᴛ  ◉› : @VenomServerz
+- ᴡᴀɴᴛ ᴛᴏ ᴍᴀᴋᴇ ʏᴏᴜʀ ʙᴏᴛ  ◉› : @Venom_ServerZ
 
-<b>ᴅᴇᴠ: <a herf=https://t.me/VenomServerz>sᴀᴇᴇᴅ ɢᴏʀᴀʏᴀ</a></b>"""
+<b>ᴅᴇᴠ: <a herf=https://t.me/Venom_ServerZ>sᴀᴇᴇᴅ ɢᴏʀᴀʏᴀ</a></b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
@@ -28,7 +28,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 ➪ /batch › Tᴏ Cʀᴇᴀᴛᴇ Lɪɴᴋ Fᴏʀ Mᴜʟᴛɪᴘʟᴇ Mᴇᴅɪᴀ
 
 <b>⪼ EG:</b>
-</code>/batch https://t.me/VenomServerz</code>"""
+</code>/batch https://t.me/Venom_ServerZ</code>"""
   
     FILTER_TXT = "Sᴇʟᴇᴄᴛ Wʜɪᴄʜ Oɴᴇ Yᴏᴜ Wᴀɴᴛ...✨"
     
